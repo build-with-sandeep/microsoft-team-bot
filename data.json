@@ -1,0 +1,54 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "answer": "Mars"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "answer": "Harper Lee"
+    },
+    {
+        "question": "What is the tallest mammal?",
+        "answer": "Giraffe"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "answer": "Yen"
+    },
+    {
+        "question": "Which country is famous for the Great Wall?",
+        "answer": "China"
+    },
+    {
+        "question": "What is the largest ocean?",
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "answer": "Au"
+    },
+    {
+        "question": "What is your name?",
+        "answer": "My name is Sandeep."
+    },
+    {
+        "question": "How are you?",
+        "answer": "I'm just a bot, so I don't have feelings, but I'm here to help you!"
+    },
+    {
+        "question": "What can you do?",
+        "answer": "I can answer questions, provide information, or just have a chat with you. Feel free to ask me anything!"
+    }
+]
